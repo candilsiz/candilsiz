@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on [MatchTrackAI](https://github.com/candilsiz/MatchTrackAI)
+- 🤝  I’m currently working on [MatchTrackAI](https://github.com/candilsiz/MatchTrackAI) and [AI-trading-bot](https://github.com/candilsiz/AI-trading-bot)
 
 - 🌱 I’m currently learning **NLP,Generative AI,and LLMs**
-
-- 🤝 I’m looking for help with [AI-trading-bot](https://github.com/candilsiz/AI-trading-bot)
 
 - 💬 Ask me about **data science, machine learning, deep learning, and vision**
 
