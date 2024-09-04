@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Can</h1>
+<h1 align="center">I'm Can</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
 - 🤝  I’m currently working on [MatchTrackAI](https://github.com/candilsiz/MatchTrackAI) and [AI-trading-bot](https://github.com/candilsiz/AI-trading-bot)
