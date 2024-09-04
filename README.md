@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP,Generative AI,and LLMs**
 
-- 💬 Ask me about **data science, machine learning, deep learning, and vision**
+- 💬 Ask me about **Data Science, Deep learning, Vision, and NLP**
 
 - 📫 How to reach me **candilsiz99@gmail.com**
 
