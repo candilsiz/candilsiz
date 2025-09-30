@@ -3,9 +3,7 @@
 
 - 🤝  I’m currently working on [MatchTrackAI](https://github.com/candilsiz/MatchTrackAI) and [AI-trading-bot](https://github.com/candilsiz/AI-trading-bot)
 
-- 🌱 I’m currently learning **NLP,Generative AI,and LLMs**
-
-- 💬 Ask me about **Data Science, Deep learning, Vision, and NLP**
+- 🌱 Researh and Development in **NLP,Generative AI,and LLMs**
 
 - 📫 How to reach me **candilsiz99@gmail.com**
 
