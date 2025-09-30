@@ -3,7 +3,7 @@
 
 - 🤝  I’m currently working on [MatchTrackAI](https://github.com/candilsiz/MatchTrackAI) and [AI-trading-bot](https://github.com/candilsiz/AI-trading-bot)
 
-- 🌱 Researh and Development in **NLP,Generative AI,and LLMs**
+- 🌱 Researh and Development in **Predictive Machine Learning, Generative AI, and AI Agents**
 
 - 📫 How to reach me **candilsiz99@gmail.com**
 
